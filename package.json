@@ -12,7 +12,7 @@
   },
   "author": "Steven Strumolo",
   "license": "ISC",
-  "bin" {
-    "your-command-here": "./index.js"
+  "bin": {
+    "resume-me": "./index.js"
   }
 }
